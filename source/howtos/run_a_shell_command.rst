@@ -2,7 +2,7 @@ Running shell commands
 ==============================
 
 Download and compile using your Dockerfile
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Many KBase apps wrap third-party tools with commandline interfaces. You
 can compile these programs for your app by entering the build commands
